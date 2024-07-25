@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Dropout
+comment0.text=\r\n\ Dropout\ class\ is\ a\ subclass\ of\ the\ Student\ class\ and\ contains\ five\ attributes\ and\ at\ last\ displays\ the\ required\ information.\r\n\r\n\ @author\ (Anjan\ Giri)\r\n\ @version\ (3)\r\n
+comment1.params=dateOfBirth\ studentName\ courseDuration\ tuitionFee\ numOfRemainingModules\ numOfMonthsAttended\ dateOfDropout
+comment1.target=Dropout(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNumOfRemainingModules()
+comment3.params=
+comment3.target=int\ getNumOfMonthsAttended()
+comment4.params=
+comment4.target=java.lang.String\ getDateOfDropout()
+comment5.params=
+comment5.target=int\ getRemainingAmount()
+comment6.params=
+comment6.target=boolean\ getHasPaid()
+comment7.params=
+comment7.target=int\ billsPayable()
+comment8.params=
+comment8.target=void\ removeStudent()
+comment9.params=
+comment9.target=void\ printInfo()
+numComments=10
